@@ -1,0 +1,179 @@
+= Manifest zur Förderung der technologischen Souveränität und der digitalen Rechte der Städte
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+:page-layout: manifesto
+
+v0.2 [Übersetzung von](https://www.barcelona.cat/digitalstandards/manifesto/0.1/)
+
+== Unsere Werte und Überzeugungen
+
+.	Wir glauben an die *technologische Souveränität* der Städte, an die volle Kontrolle und Autonomie ihrer Informations- 
+und Kommunikationstechnologien (IKT), einschließlich Dienstinfrastrukturen, Websites, Anwendungen und Daten, 
+in Übereinstimmung mit und mit Unterstützung von Gesetzen, die die Interessen der Gemeinden und ihrer Bürger schützen.
++
+****
+Die technologische Souveränität hilft den Städten, die Rechte der Bürger zu schützen, durch mehr Zugänglichkeit, 
+Transparenz und Rechenschaftspflicht, welche für eine offene Offenes Regierungs- und Verwaltungshandeln erforderlich sind.
+****
+
+. Wir glauben, dass die digitalen Rechte der Bürger in den Mittelpunkt der digitalen Politik der Städte gestellt und durch 
+die Umsetzung der Politik der technologischen Souveränität und der digitalen Demokratie geschützt werden müssen.
++
+****
+Zu den digitalen Rechten der Bürger gehören die Rechte auf Privatsphäre, Sicherheit, Informationsselbstbestimmung und 
+Neutralität, die den Bürgern die Wahl lassen, was mit ihrer digitalen Identität geschieht, wer ihre Daten online nutzt 
+und für welche Zwecke. Die digitale Demokratie ermöglicht eine stärkere Beteiligung der Bürger an der Gestaltung und 
+Verwaltung von Städten und städtischen Dienstleistungen.
+****
+
+. Wir glauben, dass *Freie Software*, *Offene Daten* und *Offene Standards*, *Dokument- und Datenformate und 
+Kommunikationsprotokolle* die Grundlagen für die technologische Souveränität der Städte sind und die digitalen Rechte 
+unserer Bürger bestmöglich unterstützen.
++
+****
+Freie Software, offene Daten und offene Standards, Formate und Protokolle bieten Städten und Bürgern Werkzeuge, die 
+einen diskriminierungsfreien Zugang zu digitalen Diensten und deren Bereitstellung ermöglichen. Dies ist nicht nur ein 
+technologisches Paradigma, sondern eine Kultur, die Einzelpersonen und Gemeinschaften hilft, ihre digitalen Rechte zu 
+schützen sowie Innovationen zu erreichen und gemeinsam Ziele zu erreichen, die für die Gesellschaft von Vorteil sind.
+****
+
+. Wir glauben, dass *Freie Software* eine solide Grundlage bietet, um ein besseres Niveau an *Effizienz*, *Stabilität* 
+und *Interoperabilität* zu erreichen, das für die IKT-Plattformen der Städte erforderlich ist, durch Quellcode-Eigentum, 
+kollaborative Entwicklung und gemeinsame Nutzung, die alle die Teilnahme an der Sicherheit, Validierung und Verbesserung 
+digitaler Dienste ermöglichen.
++
+****
+Kommunale Investitionen und die Teilnahme an Projekten für Freie Software tragen zur Entwicklung lokaler Fähigkeiten bei 
+und tragen zu Technologien bei, die die digitalen Rechte der Bürger stärken und gleichzeitig der lokalen Wirtschaft Vorteile
+bringen können. Freie Software bietet ein gutes Preis-Leistungs-Verhältnis in Bezug auf langfristige Nachhaltigkeit und 
+lokale wirtschaftliche Entwicklung, das größer ist als alle kurzfristigen finanziellen Gewinne.
+****
+
+. Wir glauben, dass *Open City Data* ein notwendiges Element der technologischen Souveränität ist und ethisch, transparent, 
+zugänglich und nachhaltig verwaltet und bereitgestellt werden muss.
++
+****
+Data die Bürger und ermöglicht eine bessere datengesteuerte Entscheidungsfindung in den Städten und schafft durch 
+Sichtbarkeit und Rechenschaftspflicht mehr Vertrauen in die lokale Regierung und ein stärkeres Engagement der Bürger bei 
+der Politikgestaltung.
+****
+
+. Wir sind der Ansicht, dass die verbindliche Annahme von *Open Standards, Dokumenten- und Datenformaten sowie 
+Kommunikationsprotokollen* die Transparenz, die Koordinierung zwischen den Behörden und die Zusammenarbeit mit dem 
+Privatsektor verbessern wird.
++
+****
+Gemeinsame, offene, regierungsübergreifende Standards, Formate und Protokolle machen die Dienste für die Nutzer besser 
+und billiger. Offene Standards vereinfachen den Zugang zu Informationen für alle Organisationen und Einzelpersonen, die 
+an der Entwicklung der Stadt teilnehmen wollen.
+****
+
+Unsere Kernwerte sind daher
+
+* Technologische Souveränität, einschließlich Daten-Souveränität
+* Digitale Rechte für Bürgerinnen und Bürger
+* Interoperabilität und Zugänglichkeit
+* Kollaborative Entwicklung durch gemeinsame Nutzung und Bündelung von Ressourcen
+* Beteiligung von Bürgern und Unternehmen an der Gestaltung und Steuerung von Technologien
+* Transparenz und Auditierbarkeit, Sicherheit und Datenschutz
+
+== Unsere Ziele
+
+****
+Alle kommunalen digitalen Policies geben dem Schutz der digitalen Rechte der Bürger Vorrang, spiegeln ihre Wünsche wider 
+und basieren auf ihrer Beteiligung.
+****
+
+****
+Kommunale IKT setzen die digitalen Rechte der Bürger um und unterstützen sie, einschließlich Datenschutz, Sicherheit,
+Rechenschaftspflicht und Neutralität, und geben den Bürgern die Möglichkeit zu entscheiden, was mit ihrer digitalen 
+Identität geschieht, wer ihre Daten verwendet und für welche Zwecke.
+****
+
+****
+Alle kommunalen digitalen Dienste werden durch Freie Software implementiert, und die gesamte Hardware steht unter 
+der Kontrolle der Stadt und läuft unter Freie Software.
+****
+
+****
+Die Städte veröffentlichen die Komponenten ihrer IKT-Dienstinfrastrukturen und teilen sie mit anderen Städten, 
+um eine breitere Beteiligung an der Verbesserung dieser gemeinsamen Komponenten einzeln oder gemeinsam zu ermöglichen.
+****
+
+****
+Alle Komponenten der Stadt-IKTs entsprechen offenen Standards, Dokumenten- und Datenformaten sowie Kommunikationsprotokollen.
+****
+
+****
+Alle von den Städten verarbeiteten und veröffentlichten Daten erfordern nicht den Kauf und/oder die Nutzung von proprietären
+und/oder geschlossenen Tools oder Dienstleistungen. Der Zugang und die Nutzung kommunaler digitaler Dienste erfordert nicht,
+dass Mitglieder der Öffentlichkeit eine Software ausführen, die nicht kostenlos ist.
+****
+
+****
+Städte profitieren von einem lokalen Ökosystem von Partnern, Anbietern und Nutzern mit nachgewiesener Erfahrung in der 
+Bereitstellung von Freier Software und offenen datenbankbasierten IKT-Diensten und -Infrastrukturen unter Verwendung von 
+offenen Standards, Formaten und Protokollen. Alle städtischen Ausschreibungen für IKT-Dienstleistungen können von 
+Mitgliedern des lokalen IKT-Sektors mit Kenntnissen in Freier Software und offenen Daten durchgeführt werden.
+****
+
+****
+Die IKTs der Städte ermöglichen es den Bürgern, auf öffentliche Informationen zuzugreifen, sie zu visualisieren und zu 
+analysieren, und fördern ein größeres bürgerschaftliches Engagement und eine stärkere Beteiligung, z.B. durch dokumentierte 
+APIs, so dass die Nutzer ihre eigene Software entwickeln können, um städtische Dienste anzufordern. Stadt-Webseiten haben 
+keine Tracker-Tags, verwenden keine Ressourcen von Websites Dritter und alle ihre Funktionalitäten funktionieren 
+ordnungsgemäß, auch wenn der Browser des Benutzers keinen Javascript-Code ausführt.
+****
+
+== Maßnahmen zur Erreichung unserer Ziele
+
+****
+Die Städte entwickeln und implementieren eine Agenda für digitale Rechte und Gleichstellung, verfolgen und überwachen die 
+Achtung der digitalen Rechte der Bürger und schaffen gemeinsam Instrumente und Ressourcen, um diese Bemühungen voranzutreiben.
+****
+
+****
+Städte werden IKT-Dienste auf der Grundlage Freier Software beschaffen und unfreie Angebote nur dann berücksichtigen, wenn 
+ein Angebot auf der Grundlage Freier Software nicht verfügbar ist. Die Beschaffung von Komponenten für IKT-Infrastrukturen 
+der Städte soll Angebote ermöglichen, die ausschließlich auf Freier Software basieren, und bevorzugt Projektangebote, 
+die auf Freier Software basieren bei der Einreichung.
+****
+
+****
+Die Städte überprüfen und veröffentlichen als Freie Software bestehende Komponenten ihrer IKT-Infrastruktur, an denen sie 
+die Rechte dazu haben. Darüber hinaus werden die Städte diejenigen Elemente ihrer IKT-Infrastruktur identifizieren, die 
+Möglichkeiten zur Implementierung mit oder Ersetzung durch Freie Software bieten.
+****
+
+****
+Die Städte nutzen die von der Stadt selbst kontrollierten Hardware-Ressourcen und ergreifen geeignete technische und 
+organisatorische Maßnahmen, um den Schutz der Daten und der Privatsphäre ihrer Bürger und Besucher zu gewährleisten.
+****
+
+****
+Die Städte bündeln ihre IKT-Infrastrukturbudgets für die gemeinsame Beschaffung von Technologien und Diensten Freier 
+Software und Werkzeugen zur Veröffentlichung offener Datensätze.
+****
+
+****
+Die Städte entwickeln intern geeignete Fähigkeiten in Bezug auf Freie Software und offene Daten, um ein autonomes Management
+ihrer IKT-Infrastrukturen und -Dienste zu erreichen.
+****
+
+****
+Die Städte fördern und unterstützen lokale Freie Software und offene datenbasierte Unternehmen und Gemeinschaften durch die 
+Entwicklung von Fähigkeiten, die Förderung von Netzwerken, die Unterstützung von Freier Software und offenen 
+Datenunternehmen, Benutzergruppen und Veranstaltungen sowie die Bereitstellung finanzieller und anderer Arten von Ressourcen.
+****
+
+****
+Die Städte unterstützen und fördern die Entwicklung von Lehrplänen für Freie Software, offene Daten und digitale Rechte in ihren kommunalen Bildungseinrichtungen, um eine Kultur der Offenheit und Zusammenarbeit zu schaffen, die dann die IKT-Politik der Städte für die Zukunft unterstützt.
+****
+
+****
+Die Städte überprüfen und veröffentlichen als offene Daten alle nicht vertraulichen oder privaten Daten, die von kommunalen 
+IKT erzeugt werden, und bieten anderen Einrichtungen die Möglichkeit, dies zu tun, um eine transparente und kooperative 
+Beziehung zwischen der Stadtverwaltung und den Bürgern zu fördern.
+****
