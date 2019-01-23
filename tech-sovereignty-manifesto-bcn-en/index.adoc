@@ -55,9 +55,7 @@ lokale wirtschaftliche Entwicklung, das größer ist als alle kurzfristigen fina
 zugänglich und nachhaltig verwaltet und bereitgestellt werden muss.
 +
 ****
-Data die Bürger und ermöglicht eine bessere datengesteuerte Entscheidungsfindung in den Städten und schafft durch 
-Sichtbarkeit und Rechenschaftspflicht mehr Vertrauen in die lokale Regierung und ein stärkeres Engagement der Bürger bei 
-der Politikgestaltung.
+Open City Data unterstützt nicht nur lokale Innovationen, sondern befähigt auch die Bürger und ermöglicht eine bessere datengesteuerte Entscheidungsfindung in den Städten und schafft durch Sichtbarkeit und Rechenschaftspflicht mehr Vertrauen in die lokale Regierung und ein größeres Engagement der Bürger bei der Politikgestaltung.
 ****
 
 . Wir sind der Ansicht, dass die verbindliche Annahme von *Open Standards, Dokumenten- und Datenformaten sowie 
