@@ -5,7 +5,7 @@ endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 :page-layout: manifesto
 
-v0.2 [Übersetzung von](https://www.barcelona.cat/digitalstandards/manifesto/0.1/)
+v0.2 [Übersetzung by vavoida von](https://www.barcelona.cat/digitalstandards/manifesto/0.1/)
 
 == Unsere Werte und Überzeugungen
 
